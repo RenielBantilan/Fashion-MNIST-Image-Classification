@@ -1,4 +1,7 @@
-<h1 style="color: #FF6B6B;">Fashion-MNIST-Image-Classification</h1>
+# Fashion-MNIST-Image-Classification
+```diff
++ Fashion-MNIST-Image-Classification
+```
 
 ## Google Colab Link: 
 https://colab.research.google.com/drive/1fDL74MtsRF74g4T3GMDY9Pkj5BewyXZ8?usp=sharing
