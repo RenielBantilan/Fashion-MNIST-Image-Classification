@@ -1,4 +1,6 @@
-# <img src="https://img.shields.io/badge/Fashion--MNIST--Image--Classification-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Fashion MNIST Classification"/>
+<h1 align="center">
+  <img src="https://img.shields.io/badge/Fashion--MNIST--Image--Classification-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Fashion MNIST Classification" style="font-size: 48px;"/>
+</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Deep_Learning-orange?style=flat-square" alt="Deep Learning"/>
@@ -39,7 +41,7 @@ Both the predicted and actual labels were **9**. The model got it right! ✅ Thi
 
 ### ![6](https://img.shields.io/badge/6-4A90E2?style=flat) What could be done to improve the model's accuracy?
 To improve the model's accuracy, we could use a **CNN** instead of dense layers since CNNs are better at recognizing image patterns.
-We could also add more layers or neurons, train for more epochs, use dropout to prevent overfitting, or try data augmentation like rotating and flipping images.
+We could also add more layers or neurons, train for more epochs, use dropout to prevent overfing, or try data augmentation like rotating and flipping images.
 
 ---
 
