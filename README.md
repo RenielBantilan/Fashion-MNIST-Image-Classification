@@ -3,6 +3,7 @@
 ## Google Colab Link: 
 https://colab.research.google.com/drive/1fDL74MtsRF74g4T3GMDY9Pkj5BewyXZ8?usp=sharing
 
+## Questions:
 
 ### 1. What is the Fashion MNIST dataset?
 Fashion MNIST is a dataset of 70,000 grayscale images showing clothing items like shirts, shoes, and bags, split into 10 different categories.
