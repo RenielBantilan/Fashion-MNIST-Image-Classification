@@ -1,7 +1,7 @@
+# 🎨 Fashion-MNIST-Image-Classification
 
-```diff
-# Fashion-MNIST-Image-Classification
-```
+<!-- Or with a badge -->
+![Title](https://img.shields.io/badge/Fashion--MNIST--Image--Classification-blue?style=for-the-badge)
 
 ## Google Colab Link: 
 https://colab.research.google.com/drive/1fDL74MtsRF74g4T3GMDY9Pkj5BewyXZ8?usp=sharing
