@@ -1,6 +1,6 @@
 
 ```diff
-+ Fashion-MNIST-Image-Classification
+#+ Fashion-MNIST-Image-Classification
 ```
 
 ## Google Colab Link: 
