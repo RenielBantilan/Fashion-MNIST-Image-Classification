@@ -1,4 +1,4 @@
-# Fashion-MNIST-Image-Classification
+
 ```diff
 + Fashion-MNIST-Image-Classification
 ```
